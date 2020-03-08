@@ -1,0 +1,20 @@
+{
+  "name": "vastcss-docs",
+  "version": "0.1.0",
+  "description": "docs for vastcss framework",
+  "main": "index.js",
+  "repository": "https://github.com/imelbox/vastcss-docs.git",
+  "author": "Mohamed Tamsamani <tamsmoha@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "vastcss": "^0.1.0"
+  }
+}
